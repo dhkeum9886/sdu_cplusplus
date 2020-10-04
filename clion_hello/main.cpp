@@ -14,5 +14,9 @@ int main()
 //         << i;
 //    cout << setw(20) << setiosflags(ios::showbase) << hex
 //         << i << endl;
+    for(int x=0 ; x<=20 ; x+=2)
+    {
+        cout << "dddd" << endl;
+    }
     return 0;
 }

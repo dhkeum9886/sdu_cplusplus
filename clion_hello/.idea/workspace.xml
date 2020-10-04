@@ -13,17 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fdd7cab-a27d-4b81-91cd-5ed2d3dbe2e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +47,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -81,6 +65,7 @@
       <workItem from="1600574504362" duration="102000" />
       <workItem from="1600575123768" duration="1162000" />
       <workItem from="1601201223722" duration="629000" />
+      <workItem from="1601590561548" duration="80000" />
     </task>
     <servers />
   </component>
@@ -88,26 +73,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1028" height="313" key="GridCell.Tab.0.bottom" timestamp="1600576286144">
+    <state width="1028" height="523" key="GridCell.Tab.0.bottom" timestamp="1601590647513">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248182" />
-    <state width="1028" height="313" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1600576286144" />
-    <state width="1028" height="313" key="GridCell.Tab.0.center" timestamp="1600576286144">
+    <state width="1028" height="523" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
+    <state width="1028" height="523" key="GridCell.Tab.0.center" timestamp="1601590647513">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="313" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1600576286144" />
-    <state width="1028" height="313" key="GridCell.Tab.0.left" timestamp="1600576286144">
+    <state width="1028" height="523" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
+    <state width="1028" height="523" key="GridCell.Tab.0.left" timestamp="1601590647513">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="313" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1600576286144" />
-    <state width="1028" height="313" key="GridCell.Tab.0.right" timestamp="1600576286144">
+    <state width="1028" height="523" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
+    <state width="1028" height="523" key="GridCell.Tab.0.right" timestamp="1601590647513">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="313" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1600576286144" />
+    <state width="1028" height="523" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
     <state x="82" y="56" width="1235" height="715" key="SettingsEditor" timestamp="1599351227514">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
