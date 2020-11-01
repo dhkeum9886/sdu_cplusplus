@@ -13,6 +13,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2fdd7cab-a27d-4b81-91cd-5ed2d3dbe2e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\sdu_cplusplus\clion_hello" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="clion" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="clion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="clion">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -66,6 +79,11 @@
       <workItem from="1600575123768" duration="1162000" />
       <workItem from="1601201223722" duration="629000" />
       <workItem from="1601590561548" duration="80000" />
+      <workItem from="1602206347009" duration="635000" />
+      <workItem from="1602884547691" duration="229000" />
+      <workItem from="1602885003232" duration="70000" />
+      <workItem from="1604185029739" duration="655000" />
+      <workItem from="1604186006956" duration="7814000" />
     </task>
     <servers />
   </component>
@@ -73,26 +91,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1028" height="523" key="GridCell.Tab.0.bottom" timestamp="1601590647513">
+    <state width="1415" height="249" key="GridCell.Tab.0.bottom" timestamp="1604194152820">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248182" />
-    <state width="1028" height="523" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
-    <state width="1028" height="523" key="GridCell.Tab.0.center" timestamp="1601590647513">
+    <state width="1415" height="249" key="GridCell.Tab.0.bottom/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1604194152820" />
+    <state width="1415" height="249" key="GridCell.Tab.0.center" timestamp="1604194152820">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="523" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
-    <state width="1028" height="523" key="GridCell.Tab.0.left" timestamp="1601590647513">
+    <state width="1415" height="249" key="GridCell.Tab.0.center/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1604194152820" />
+    <state width="1415" height="249" key="GridCell.Tab.0.left" timestamp="1604194152820">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="523" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
-    <state width="1028" height="523" key="GridCell.Tab.0.right" timestamp="1601590647513">
+    <state width="1415" height="249" key="GridCell.Tab.0.left/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1604194152820" />
+    <state width="1415" height="249" key="GridCell.Tab.0.right" timestamp="1604194152820">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state width="1342" height="226" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599351248181" />
-    <state width="1028" height="523" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1601590647513" />
+    <state width="1415" height="249" key="GridCell.Tab.0.right/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1604194152820" />
     <state x="82" y="56" width="1235" height="715" key="SettingsEditor" timestamp="1599351227514">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -101,5 +119,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="308" y="168" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.1080.1920.1050@0.0.1536.834" timestamp="1599353400510" />
+    <state x="990" y="1215" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604187321147">
+      <screen x="0" y="1080" width="1920" height="1050" />
+    </state>
+    <state x="990" y="1215" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834/0.1080.1920.1050@0.1080.1920.1050" timestamp="1604187321147" />
   </component>
 </project>
